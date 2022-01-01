@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-KVD
+- 👋 Hi, I’m K V D Sridhar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on web development projects
