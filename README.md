@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can contact me by email on kvd.sridhar.code@gmail.com
-- you can connect with me on [linkedin] (linkedin.com/in/k-v-d-sridhar-155247212)
+- you can connect with me on [linkedin](linkedin.com/in/k-v-d-sridhar-155247212)
 
 <!---
 Code-KVD/Code-KVD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
