@@ -1,4 +1,4 @@
-# Hi there, I'm K V D Sridhar! 👋
+# Hey there, I'm K V D Sridhar! 👋
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and data scientist currently pursuing my studies at VIT Bhopal. My journey in technology is fueled by a love for problem-solving and creating innovative solutions.
 
@@ -24,7 +24,7 @@ Feel free to explore more on my [portfolio website](https://code-kvd.github.io/p
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/Code-KVD)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-KVD&show_icons=true&theme=radical)](https://github.com/Code-KVD)
 
 ## 📫 Let's Connect
 
