@@ -24,7 +24,7 @@ Feel free to explore more on my [portfolio website](https://code-kvd.github.io/p
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/Code-KVD)
 
 ## 📫 Let's Connect
 
@@ -32,15 +32,6 @@ Feel free to explore more on my [portfolio website](https://code-kvd.github.io/p
 - Portfolio: [kvd-sridhar.github.io](https://code-kvd.github.io/personal-porfolio/)
 
 Thanks for stopping by! 😊 Let's collaborate and build amazing things together.
-
-
-
-- 👋 Hi, I’m K V D Sridhar
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 You can contact me by email on kvd.sridhar.code@gmail.com
-- you can connect with me on [linkedin](http://linkedin.com/in/k-v-d-sridhar-155247212)
 
 <!---
 Code-KVD/Code-KVD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
