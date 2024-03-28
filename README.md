@@ -16,8 +16,8 @@ I'm currently diving deeper into data science, exploring machine learning algori
 
 Check out some of my projects below:
 
-1. [Project 1](https://github.com/Code-KVD/flask-blog)
-2. [Project 2](https://github.com/Code-KVD/laptopPricePredictor)
+1. [Project 1](https://github.com/Code-KVD/facialAuthenticationClient)
+2. [Project 2](https://github.com/Code-KVD/StreamSketch)
 3. [Project 3](https://github.com/Code-KVD/Next-Watch)
 
 Feel free to explore more on my [portfolio website](https://code-kvd.github.io/personal-porfolio/)!
