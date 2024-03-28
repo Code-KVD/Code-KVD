@@ -29,7 +29,6 @@ Feel free to explore more on my [portfolio website](https://code-kvd.github.io/p
 ## 📫 Let's Connect
 
 - LinkedIn: [K V D Sridhar](http://linkedin.com/in/k-v-d-sridhar-155247212)
-- Portfolio: [kvd-sridhar.github.io](https://code-kvd.github.io/personal-porfolio/)
 
 Thanks for stopping by! 😊 Let's collaborate and build amazing things together.
 
