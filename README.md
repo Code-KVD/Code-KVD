@@ -17,8 +17,8 @@ I'm currently diving deeper into backend development, exploring different best p
 Check out some of my projects below:
 
 1. [Facial Authentication System (MERN)](https://github.com/Code-KVD/facialAuthenticationClient)
-2. [Stream Sketch (whiteboard Collaboration App)](https://github.com/Code-KVD/StreamSketch)
-3. [Safe Space (Password manager)](https://github.com/Code-KVD/SafeSpace)
+2. [Stream Sketch (whiteboard Collaboration APP (MERN))](https://github.com/Code-KVD/StreamSketch)
+3. [Safe Space (Password manager (MERN))](https://github.com/Code-KVD/SafeSpace)
 
 Feel free to explore more on my [portfolio website](https://code-kvd.github.io/personal-porfolio/)!
 
