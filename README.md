@@ -5,20 +5,20 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and data scien
 ## 🔧 Technologies & Tools
 
 - HTML | CSS | JavaScript
-- Python | Data Science
+- ReactJS | NodeJS | Express | MongoDB
 - Git | GitHub | VS Code
 
 ## 🌱 What I'm Currently Learning
 
-I'm currently diving deeper into data science, exploring machine learning algorithms, and enhancing my frontend development skills with the latest frameworks.
+I'm currently diving deeper into backend development, exploring different best practices to create robust system , and enhancing my frontend development skills with the latest frameworks.
 
 ## 🚀 Projects
 
 Check out some of my projects below:
 
-1. [Project 1](https://github.com/Code-KVD/facialAuthenticationClient)
-2. [Project 2](https://github.com/Code-KVD/StreamSketch)
-3. [Project 3](https://github.com/Code-KVD/Next-Watch)
+1. [Facial Authentication System (MERN)](https://github.com/Code-KVD/facialAuthenticationClient)
+2. [Stream Sketch (whiteboard Collaboration App)](https://github.com/Code-KVD/StreamSketch)
+3. [Safe Space (Password manager)](https://github.com/Code-KVD/SafeSpace)
 
 Feel free to explore more on my [portfolio website](https://code-kvd.github.io/personal-porfolio/)!
 
